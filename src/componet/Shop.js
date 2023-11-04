@@ -5,7 +5,7 @@ const Shop = [
         name: 'Black Pant',
         category: 'pants',
         price: "450₹",
-        discription: "This is black pant for men"
+        description: "This is black pant for men"
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ const Shop = [
         name: 'Black T-Shirt',
         category: 'T-Shirt',
         price: "200₹",
-        discription: "This is black T-shirt for men"
+        description: "This is black T-shirt for men"
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const Shop = [
         name: 'Blue Pant',
         category: 'pants',
         price: "500₹",
-        discription: "This is blue pant for men"
+        description: "This is blue pant for men"
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const Shop = [
         name: 'grey Pant',
         category: 'pants',
         price: "350₹",
-        discription: "This is grey pant for men"
+        description: "This is grey pant for men"
     },
     {
         id: 5,
@@ -37,7 +37,7 @@ const Shop = [
         name: 'red Pant',
         category: 'pants',
         price: "450₹",
-        discription: "This is red pant for men"
+        description: "This is red pant for men"
     },
     {
         id: 6,
@@ -45,7 +45,7 @@ const Shop = [
         name: 'Red T-Shirt',
         category: 'T-Shirt',
         price: "250₹",
-        discription: "This is red T-shirt for men"
+        description: "This is red T-shirt for men"
     },
     {
         id: 7,
@@ -53,7 +53,7 @@ const Shop = [
         name: 'White T-Shirt',
         category: 'T-Shirt',
         price: "300₹",
-        discription: "This is white T-shirt for men"
+        description: "This is white T-shirt for men"
     },
     {
         id: 8,
@@ -61,15 +61,7 @@ const Shop = [
         name: 'Yellow T-Shirt',
         category: 'T-Shirt',
         price: "350₹",
-        discription: "This is yellow T-shirt for men"
-    },
-    {
-        id: 9,
-        image: 'images/yellow-t-shirt.JPG',
-        name: 'Yellow T-Shirt',
-        category: 'Shoe',
-        price: "350₹",
-        discription: "This is yellow T-shirt for men"
+        description: "This is yellow T-shirt for men"
     },
 ]
 export default Shop
